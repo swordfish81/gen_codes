@@ -1,2 +1,2 @@
 # gen_codes
-repo for general codes
+This is a repo for general codes. For easy reference.
